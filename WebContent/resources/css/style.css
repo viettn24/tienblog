@@ -1,0 +1,64 @@
+body{
+	
+}
+
+.logo {
+	width: 300px; 
+}
+
+.navbar-nav .nav-item .nav-link{
+	color: white;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+	text-decoration: underline;
+	color: white;
+}
+
+.slide .container{
+	color: red;
+	text-align: center;
+}
+
+
+.postContent{
+	border: 1px solid #CCCCCC;
+}
+
+.postTittle{
+	width: 100%;
+	background-color: #F8F8F8;
+	border-bottom: 1px solid #CCCCCC;
+	margin: 0px;
+	
+}
+
+.signatureAuthor{
+	width: 100%;
+	background-color: #F0F0F0;
+	margin: 0px;
+	font-size: 15px;
+	font-style: italic;
+	
+}
+
+.postBody{
+	font-size: 20px;
+	background-color: white;
+}
+
+.infoSocial{
+	font-size: 66px;
+}
+
+.loginForm{
+	text-align: center;
+}
+
+
+
+
+
+
